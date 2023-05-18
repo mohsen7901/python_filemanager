@@ -1,5 +1,5 @@
 import os
-#I used copyfile function from shutil module to copy content of a file to other place 
+#I used copyfile function from shutil module to copy content of a file to other file 
 from shutil import copyfile
 
 if not os.path.exists("py_Recycle_Bin"):
